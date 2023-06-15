@@ -1,0 +1,2 @@
+# phinamajee
+static web
